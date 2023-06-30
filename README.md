@@ -34,4 +34,4 @@ $ make ...
 ```
 
 ## Testing
-* [Tripouille/printfTester](https://github.com/Mikastiv/ft_containers-terminator)
+* [Mikastiv/ft_containers-terminator](https://github.com/Mikastiv/ft_containers-terminator)
