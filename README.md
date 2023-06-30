@@ -15,7 +15,7 @@
 
 > _In this project, we must reimplement some of the STL containers, defined by the ISO 1998._
 
-Here are the specificities of the five containers
+Here are the specificities of the five containers:
 
 	Vector: a dynamic array that allows insertion at the end of the container. Elements can be easily access thanks with the corresponding index.
  
